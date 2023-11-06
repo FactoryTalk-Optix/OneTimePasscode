@@ -13,4 +13,4 @@
 5. Type OTP code and hit enter. LED will show the validation result
 
 ## Known issues
-- Key should be stored to a persistent file and reloaded at every reboot of the machine to avoid readding device at every reboot of the application.
+- Key should be stored to a persistent file and reloaded at every reboot of the machine to avoid readding device at every reboot of the application
