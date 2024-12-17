@@ -1,5 +1,9 @@
 # OTP Demo with FT Optix
 
+## Deprecation notice
+
+This project was moved to `Optix_Sample_TwoFactorsAuthentication`
+
 ## Designtime setup
 1. Install package `GoogleAuthenticator` by [Brandon Potter](https://github.com/BrandonPotter/GoogleAuthenticator) (tested version 3.0.0)
 2. Add `<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>` after `<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>` in `csproj` file
